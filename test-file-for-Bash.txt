@@ -1,1 +1,3 @@
 Bash tese file for GitHub exercises 
+
+changes from local to be pushed with Bash and create conflict

@@ -2,4 +2,10 @@ testing repository commit
 
 change from new folder to be pushe by Tortoise
 
+
 Conflict created in local repo to be pushed by Tortoise
+
+
+Conflict created from GitHub
+
+Conflict resolved and pushed by Tortoise

@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Triangle-of-Numbers\bin\Debug\Triangle-of-Numbers.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Triangle-of-Numbers\bin\Debug\Triangle-of-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Triangle-of-Numbers\bin\Debug\Triangle-of-Numbers.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Triangle-of-Numbers\obj\Debug\Triangle-of-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Triangle-of-Numbers\obj\Debug\Triangle-of-Numbers.pdb

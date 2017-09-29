@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Count-the-Integers\bin\Debug\Count-the-Integers.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Count-the-Integers\bin\Debug\Count-the-Integers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Count-the-Integers\bin\Debug\Count-the-Integers.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Count-the-Integers\obj\Debug\Count-the-Integers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Count-the-Integers\obj\Debug\Count-the-Integers.pdb

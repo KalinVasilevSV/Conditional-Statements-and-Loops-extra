@@ -1,0 +1,12 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\bin\Debug\Test-Numbers.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\bin\Debug\Test-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\bin\Debug\Test-Numbers.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\obj\Debug\Test-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\obj\Debug\Test-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\obj\Debug\Test-Numbers.pdb
+C:\Users\K\Documents\Visual Studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\bin\Debug\Test-Numbers.exe.config
+C:\Users\K\Documents\Visual Studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\bin\Debug\Test-Numbers.exe
+C:\Users\K\Documents\Visual Studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\bin\Debug\Test-Numbers.pdb
+C:\Users\K\Documents\Visual Studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\obj\Debug\Test-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\obj\Debug\Test-Numbers.exe
+C:\Users\K\Documents\Visual Studio 2017\Projects\Conditional-Statements-and-Loops-extra\Test-Numbers\obj\Debug\Test-Numbers.pdb

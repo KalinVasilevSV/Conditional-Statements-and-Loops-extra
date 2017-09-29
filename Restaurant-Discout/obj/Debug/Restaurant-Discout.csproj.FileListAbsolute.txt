@@ -1,0 +1,6 @@
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Restaurant-Discout\bin\Debug\Restaurant-Discout.exe.config
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Restaurant-Discout\bin\Debug\Restaurant-Discout.exe
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Restaurant-Discout\bin\Debug\Restaurant-Discout.pdb
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Restaurant-Discout\obj\Debug\Restaurant-Discout.csprojResolveAssemblyReference.cache
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Restaurant-Discout\obj\Debug\Restaurant-Discout.exe
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Restaurant-Discout\obj\Debug\Restaurant-Discout.pdb

@@ -1,0 +1,6 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Five-Different-Numbers\bin\Debug\Five-Different-Numbers.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Five-Different-Numbers\bin\Debug\Five-Different-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Five-Different-Numbers\bin\Debug\Five-Different-Numbers.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Five-Different-Numbers\obj\Debug\Five-Different-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Five-Different-Numbers\obj\Debug\Five-Different-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Five-Different-Numbers\obj\Debug\Five-Different-Numbers.pdb

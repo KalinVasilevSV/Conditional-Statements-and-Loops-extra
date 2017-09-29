@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Magic-Letter\bin\Debug\Magic-Letter.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Magic-Letter\bin\Debug\Magic-Letter.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Magic-Letter\bin\Debug\Magic-Letter.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Magic-Letter\obj\Debug\Magic-Letter.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Magic-Letter\obj\Debug\Magic-Letter.pdb

@@ -1,0 +1,6 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Calories-Counter\bin\Debug\Calories-Counter.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Calories-Counter\bin\Debug\Calories-Counter.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Calories-Counter\bin\Debug\Calories-Counter.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Calories-Counter\obj\Debug\Calories-Counter.csprojResolveAssemblyReference.cache
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Calories-Counter\obj\Debug\Calories-Counter.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Calories-Counter\obj\Debug\Calories-Counter.pdb

@@ -1,0 +1,6 @@
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Hotel\bin\Debug\Hotel.exe.config
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Hotel\bin\Debug\Hotel.exe
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Hotel\bin\Debug\Hotel.pdb
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Hotel\obj\Debug\Hotel.exe
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Hotel\obj\Debug\Hotel.pdb

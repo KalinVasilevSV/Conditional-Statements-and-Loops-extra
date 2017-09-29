@@ -1,0 +1,6 @@
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Choose-A-Drink\bin\Debug\Choose-A-Drink.exe.config
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Choose-A-Drink\bin\Debug\Choose-A-Drink.exe
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Choose-A-Drink\bin\Debug\Choose-A-Drink.pdb
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Choose-A-Drink\obj\Debug\Choose-A-Drink.csprojResolveAssemblyReference.cache
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Choose-A-Drink\obj\Debug\Choose-A-Drink.exe
+c:\users\kalin\documents\visual studio 2017\Projects\Conditional-Statements-and-Loops-extra\Choose-A-Drink\obj\Debug\Choose-A-Drink.pdb

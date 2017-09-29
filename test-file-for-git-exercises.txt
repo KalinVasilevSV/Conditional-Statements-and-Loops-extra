@@ -9,3 +9,5 @@ Conflict created in local repo to be pushed by Tortoise
 Conflict created from GitHub
 
 Conflict resolved and pushed by Tortoise
+
+changes made from master branch
